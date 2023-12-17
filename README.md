@@ -1,3 +1,3 @@
-Собственная модель - файл model
+Собственная модель - файл model/n
 TensorFlow - TF
 FER - FER
