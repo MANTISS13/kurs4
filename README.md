@@ -1,6 +1,7 @@
 Собственная модель - файл model
+graphic - график построения эмоций
 
-TensorFlow - TF
+TensorFlow папка - TF
 
 FER - FER
 
